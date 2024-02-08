@@ -54,7 +54,7 @@ def main():
     Draw the page
     """
 
-    st.title("Graph Renderer")
+    st.title("Curve Renderer")
     label_text = st.text_input(label="Graph Label")
     show_spine = st.radio("Show Graph Spine", [True, False])
     log_scale = st.radio("Log Scale", [True, False], index=1)
