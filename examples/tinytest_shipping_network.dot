@@ -1,0 +1,229 @@
+digraph {
+n1000000 [hermes_id="1000000" color="0.800 1.0 1.0" label="D?p?t_Central*
+1000000" shape="box" fontsize="100.00"]
+n1010000 [hermes_id="1010000" color="0.800 1.0 1.0" label="AGADEZ
+1010000" shape="box" fontsize=" 70.71"]
+n1010100 [hermes_id="1010100" color="0.444 1.0 1.0" label="Agadez
+1010100" shape="box" fontsize=" 40.82"]
+n1010101 [hermes_id="1010101" color="0.622 1.0 1.0" label="Caisse
+1010101" shape="ellipse" fontsize=" 28.87"]
+n1010102 [hermes_id="1010102" color="0.089 1.0 1.0" label="Centre
+1010102
+cooler=0.815995" shape="ellipse" fontsize=" 28.87"]
+n1010200 [hermes_id="1010200" color="0.800 1.0 1.0" label="Arlit
+1010200" shape="box" fontsize=" 40.82"]
+n1010201 [hermes_id="1010201" color="0.800 1.0 1.0" label="Arlit
+1010201" shape="ellipse" fontsize=" 28.87"]
+n1010202 [hermes_id="1010202" color="0.711 1.0 1.0" label="Akokan
+1010202" shape="ellipse" fontsize=" 28.87"]
+n1020000 [hermes_id="1020000" color="0.800 1.0 1.0" label="DIFFA
+1020000" shape="box" fontsize=" 70.71"]
+n1020100 [hermes_id="1020100" color="0.533 1.0 1.0" label="Diffa
+1020100" shape="box" fontsize=" 50.00"]
+n1020101 [hermes_id="1020101" color="0.800 1.0 1.0" label="Baroua
+1020101" shape="ellipse" fontsize=" 35.36"]
+n1020102 [hermes_id="1020102" color="0.800 1.0 1.0" label="Bosso
+1020102" shape="ellipse" fontsize=" 35.36"]
+n1020200 [hermes_id="1020200" color="0.800 1.0 1.0" label="Main?_Soroa
+1020200" shape="box" fontsize=" 50.00"]
+n1020201 [hermes_id="1020201" color="0.800 1.0 1.0" label="Kilakam
+1020201" shape="ellipse" fontsize=" 35.36"]
+n1020202 [hermes_id="1020202" color="0.800 1.0 1.0" label="Foulatari
+1020202" shape="ellipse" fontsize=" 35.36"]
+n1030000 [hermes_id="1030000" color="0.800 1.0 1.0" label="DOSSO
+1030000" shape="box" hermes_cluster="DOSSO" fontsize=" 23.57"]
+n1030100 [hermes_id="1030100" color="0.711 1.0 1.0" label="Boboye
+1030100" shape="box" fontsize=" 11.79"]
+n1030101 [hermes_id="1030101" color="0.444 1.0 1.0" label="Birni_N'gaour?
+1030101" shape="ellipse" fontsize="  6.80"]
+n1030102 [hermes_id="1030102" color="0.444 1.0 1.0" label="Tinoma
+1030102" shape="ellipse" fontsize="  6.80"]
+n1030103 [hermes_id="1030103" color="0.444 1.0 1.0" label="Saboula
+1030103" shape="ellipse" fontsize="  6.80"]
+n1030104 [hermes_id="1030104" color="0.800 1.0 1.0" shape="diamond" label="1030104" fontsize="  6.80"]
+n1030105 [hermes_id="1030105" color="0.800 1.0 1.0" shape="diamond" label="1030105" fontsize="  6.80"]
+n1030200 [hermes_id="1030200" color="0.711 1.0 1.0" label="Doutchi
+1030200" shape="box" fontsize=" 11.79"]
+n1030201 [hermes_id="1030201" color="0.800 1.0 1.0" label="DoutchiSud
+1030201" shape="ellipse" fontsize="  8.33"]
+n1030202 [hermes_id="1030202" color="0.711 1.0 1.0" label="Birni_Lokoyo
+1030202" shape="ellipse" fontsize="  8.33"]
+n1030300 [hermes_id="1030300" color="0.267 1.0 1.0" label="Pittsburgh
+1030300" shape="box" hermes_cluster="Pittsburgh" fontsize=" 11.79"]
+n1030301 [hermes_id="1030301" color="0.800 1.0 1.0" shape="diamond" label="1030301" fontsize="  5.27"]
+n1030302 [hermes_id="1030302" color="0.711 1.0 1.0" shape="diamond" label="1030302" fontsize="  5.27"]
+n1030303 [hermes_id="1030303" color="0.711 1.0 1.0" shape="diamond" label="1030303" fontsize="  5.27"]
+n1030304 [hermes_id="1030304" color="0.800 1.0 1.0" shape="diamond" label="1030304" fontsize="  5.27"]
+n1030305 [hermes_id="1030305" color="0.622 1.0 1.0" shape="diamond" label="1030305" fontsize="  5.27"]
+n1030306 [hermes_id="1030306" color="0.622 1.0 1.0" shape="diamond" label="1030306" fontsize="  5.27"]
+n1030400 [hermes_id="1030400" color="0.444 1.0 1.0" label="SanFrancisco
+1030400" shape="box" fontsize=" 11.79"]
+n1030401 [hermes_id="1030401" color="0.267 1.0 1.0" shape="diamond" label="1030401" fontsize="  6.80"]
+n1030402 [hermes_id="1030402" color="0.444 1.0 1.0" shape="diamond" label="1030402" fontsize="  6.80"]
+n1030403 [hermes_id="1030403" color="0.711 1.0 1.0" shape="diamond" label="1030403" fontsize="  6.80"]
+n1030404 [hermes_id="1030404" color="0.444 1.0 1.0" shape="diamond" label="1030404" fontsize="  6.80"]
+n1040000 [hermes_id="1040000" color="0.800 1.0 1.0" label="Philadelphia
+1040000" shape="box" fontsize=" 40.82"]
+n1040100 [hermes_id="1040100" color="0.622 1.0 1.0" label="Reading
+1040100" shape="box" fontsize=" 23.57"]
+n1040101 [hermes_id="1040101" color="0.800 1.0 1.0" label="Reading_or1
+1040101" shape="house" fontsize=" 23.57"]
+n1040102 [hermes_id="1040102" color="0.800 1.0 1.0" label="Reading_or2
+1040102" shape="house" fontsize=" 23.57"]
+n1040103 [hermes_id="1040103" color="0.800 1.0 1.0" label="Reading_or3
+1040103" shape="house" fontsize=" 23.57"]
+n1040200 [hermes_id="1040200" color="0.711 1.0 1.0" label="Harrisburg
+1040200" shape="box" fontsize=" 23.57"]
+n1040201 [hermes_id="1040201" color="0.800 1.0 1.0" label="Harrisburg_or1
+1040201" shape="house" fontsize=" 23.57"]
+n1040202 [hermes_id="1040202" color="0.800 1.0 1.0" label="Harrisburg_or2
+1040202" shape="house" fontsize=" 23.57"]
+n1040203 [hermes_id="1040203" color="0.800 1.0 1.0" label="Harrisburg_or3
+1040203" shape="house" fontsize=" 23.57"]
+n1000000 -> n1020000 [color="0.800 1.0 1.0" label="A
+N_cold_truck
+askingpush" fontsize=" 50.00" penwidth="  7.07" arrowsize="  2.00"]
+n1000000 -> n1010000 [color="0.800 1.0 1.0" label="B
+N_cold_truck
+varpush" fontsize=" 50.00" penwidth="  7.07" arrowsize="  2.00"]
+n1010000 -> n1010200 [color="0.800 1.0 1.0" label="r1010200
+N_4x4_truck
+pull" fontsize=" 35.36" penwidth="  4.08" arrowsize="  1.41"]
+n1010000 -> n1040000 [color="0.800 1.0 1.0" label="B
+N_cold_truck
+varpush" fontsize=" 35.36" penwidth="  4.08" arrowsize="  1.41"]
+n1010000 -> n1010100 [color="0.711 1.0 1.0" label="r1010100
+N_4x4_truck
+pull" fontsize=" 35.36" penwidth="  4.08" arrowsize="  1.41"]
+n1010100 -> n1010102 [color="0.000 1.0 1.0" label="r1010102
+N_vaccine_carrier_WHO_PQS
+pull
+RouteFill=1.120092" fontsize=" 20.41" penwidth="  2.89" arrowsize="  0.82"]
+n1010100 -> n1010101 [color="0.000 1.0 1.0" label="r1010101
+N_vaccine_carrier_WHO_PQS
+pull
+RouteFill=1.171823" fontsize=" 20.41" penwidth="  2.89" arrowsize="  0.82"]
+n1010200 -> n1010201 [color="0.000 1.0 1.0" label="r1010201
+N_vaccine_carrier_WHO_PQS
+pull
+RouteFill=2.743219" fontsize=" 20.41" penwidth="  2.89" arrowsize="  0.82"]
+n1010200 -> n1010202 [color="0.000 1.0 1.0" label="r1010202
+N_vaccine_carrier_WHO_PQS
+pull
+RouteFill=2.743219" fontsize=" 20.41" penwidth="  2.89" arrowsize="  0.82"]
+n1020000 -> n1020100 [color="0.711 1.0 1.0" label="r1020100
+N_4x4_truck
+pull" fontsize=" 35.36" penwidth="  5.00" arrowsize="  1.41"]
+n1020000 -> n1020200 [color="0.800 1.0 1.0" label="r1020200
+N_4x4_truck
+pull" fontsize=" 35.36" penwidth="  5.00" arrowsize="  1.41"]
+n1020100 -> n1020101 [color="0.000 1.0 1.0" label="r1020101
+N_vaccine_carrier_WHO_PQS
+pull
+RouteFill=3.933063" fontsize=" 25.00" penwidth="  3.54" arrowsize="  1.00"]
+n1020100 -> n1020102 [color="0.000 1.0 1.0" label="r1020102
+N_vaccine_carrier_WHO_PQS
+pull
+RouteFill=3.951813" fontsize=" 25.00" penwidth="  3.54" arrowsize="  1.00"]
+n1020200 -> n1020202 [color="0.000 1.0 1.0" label="r1020202
+N_vaccine_carrier_WHO_PQS
+pull
+RouteFill=3.101106" fontsize=" 25.00" penwidth="  3.54" arrowsize="  1.00"]
+n1020200 -> n1020201 [color="0.000 1.0 1.0" label="r1020201
+N_vaccine_carrier_WHO_PQS
+pull
+RouteFill=3.101106" fontsize=" 25.00" penwidth="  3.54" arrowsize="  1.00"]
+n1030000 -> n1030100 [color="0.711 1.0 1.0" label="r1030100
+N_4x4_truck
+pull" fontsize=" 11.79" penwidth="  1.18" arrowsize="  0.47"]
+n1030000 -> n1030300 [color="0.622 1.0 1.0" label="r1030300
+N_4x4_truck
+persistentpull" fontsize=" 11.79" penwidth="  1.18" arrowsize="  0.47"]
+n1030000 -> n1030200 [color="0.711 1.0 1.0" label="r1030200
+N_4x4_truck
+pull" fontsize=" 11.79" penwidth="  1.18" arrowsize="  0.47"]
+n1030000 -> n1030400 [color="0.711 1.0 1.0" label="r1030400
+N_4x4_truck
+pull" fontsize=" 11.79" penwidth="  1.18" arrowsize="  0.47"]
+n1030100 -> n1030101 [color="0.800 1.0 1.0" label="C
+N_4x4_truck
+varpush" fontsize="  5.89" penwidth="  0.68" arrowsize="  0.24"]
+n1030100 -> n1030104 [label="default" style="dotted" fontsize="  5.89" penwidth="  0.68" arrowsize="  0.24"]
+n1030100 -> n1030105 [label="default" style="dotted" fontsize="  5.89" penwidth="  0.68" arrowsize="  0.24"]
+n1030101 -> n1030102 [color="0.800 1.0 1.0" label="C
+N_4x4_truck
+varpush" fontsize="  3.40" penwidth="  0.68" arrowsize="  0.14"]
+n1030102 -> n1030103 [color="0.800 1.0 1.0" label="C
+N_4x4_truck
+varpush" fontsize="  3.40" penwidth="  0.68" arrowsize="  0.14"]
+n1030200 -> n1030201 [color="0.000 1.0 1.0" label="r1030201
+N_vaccine_carrier_WHO_PQS
+pull
+RouteFill=7.091406" fontsize="  5.89" penwidth="  0.83" arrowsize="  0.24"]
+n1030200 -> n1030202 [color="0.000 1.0 1.0" label="r1030202
+N_vaccine_carrier_WHO_PQS
+pull
+RouteFill=7.091406" fontsize="  5.89" penwidth="  0.83" arrowsize="  0.24"]
+n1030300 -> n1030306 [color="0.000 1.0 1.0" label="r1030306
+N_vaccine_carrier_WHO_PQS
+persistentdemandfetch
+RouteFill=4.137744" fontsize="  5.89" penwidth="  0.53" arrowsize="  0.24"]
+n1030300 -> n1030305 [color="0.000 1.0 1.0" label="r1030305
+N_vaccine_carrier_WHO_PQS
+persistentpull
+RouteFill=4.125244" fontsize="  5.89" penwidth="  0.53" arrowsize="  0.24"]
+n1030300 -> n1030304 [color="black" label="r1030304
+
+attached" fontsize="  5.89" penwidth="  0.53" arrowsize="  0.24"]
+n1030300 -> n1030301 [color="0.800 1.0 1.0" label="r1030301
+N_vaccine_carrier_WHO_PQS_plus_ice
+pull" fontsize="  5.89" penwidth="  0.53" arrowsize="  0.24"]
+n1030300 -> n1030302 [color="0.444 1.0 1.0" label="D
+N_4x4_truck_ice
+varpush" fontsize="  5.89" penwidth="  0.53" arrowsize="  0.24"]
+n1030302 -> n1030303 [color="0.444 1.0 1.0" label="D
+N_4x4_truck_ice
+varpush" fontsize="  2.64" penwidth="  0.53" arrowsize="  0.11"]
+n1030400 -> n1030401 [color="0.000 1.0 1.0" label="E
+N_vaccine_carrier_WHO_PQS
+schedvarfetch
+RouteFill=1.062850" fontsize="  5.89" penwidth="  0.68" arrowsize="  0.24"]
+n1030400 -> n1030403 [color="0.000 1.0 1.0" label="r1030403
+N_vaccine_carrier_WHO_PQS
+demandfetch
+RouteFill=1.000059" fontsize="  5.89" penwidth="  0.68" arrowsize="  0.24"]
+n1030400 -> n1030404 [color="0.356 1.0 1.0" label="r1030404
+N_vaccine_carrier_WHO_PQS
+demandfetch" fontsize="  5.89" penwidth="  0.68" arrowsize="  0.24"]
+n1030401 -> n1030402 [color="0.000 1.0 1.0" label="E
+N_vaccine_carrier_WHO_PQS
+schedvarfetch
+RouteFill=1.062850" fontsize="  3.40" penwidth="  0.68" arrowsize="  0.14"]
+n1040000 -> n1030000 [color="0.800 1.0 1.0" label="B
+N_cold_truck
+varpush" fontsize=" 20.41" penwidth="  2.36" arrowsize="  0.82"]
+n1040000 -> n1040100 [color="0.800 1.0 1.0" label="r1040100
+N_4x4_truck
+varpush" fontsize=" 20.41" penwidth="  2.36" arrowsize="  0.82"]
+n1040000 -> n1040200 [color="0.800 1.0 1.0" label="r1040200
+N_4x4_truck
+pull" fontsize=" 20.41" penwidth="  2.36" arrowsize="  0.82"]
+n1040100 -> n1040101 [color="0.800 1.0 1.0" label="r_Reading_or
+TT_motorcycle
+dropandcollect" fontsize=" 11.79" penwidth="  2.36" arrowsize="  0.47"]
+n1040101 -> n1040102 [color="0.800 1.0 1.0" label="r_Reading_or
+TT_motorcycle
+dropandcollect" fontsize=" 11.79" penwidth="  2.36" arrowsize="  0.47"]
+n1040102 -> n1040103 [color="0.800 1.0 1.0" label="r_Reading_or
+TT_motorcycle
+dropandcollect" fontsize=" 11.79" penwidth="  2.36" arrowsize="  0.47"]
+n1040200 -> n1040201 [color="0.800 1.0 1.0" label="r_Harrisburg_or
+TT_motorcycle
+dropandcollect" fontsize=" 11.79" penwidth="  2.36" arrowsize="  0.47"]
+n1040201 -> n1040202 [color="0.800 1.0 1.0" label="r_Harrisburg_or
+TT_motorcycle
+dropandcollect" fontsize=" 11.79" penwidth="  2.36" arrowsize="  0.47"]
+n1040202 -> n1040203 [color="0.800 1.0 1.0" label="r_Harrisburg_or
+TT_motorcycle
+dropandcollect" fontsize=" 11.79" penwidth="  2.36" arrowsize="  0.47"]
+}
